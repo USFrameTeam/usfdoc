@@ -30,7 +30,9 @@ Minebbs帖子管理员：qcbby，悠米看悠米
 
 文档发起人：YYTZ
 文档贡献者：YYTZ，EarthDLL，qcbby，MengZe2l，dyf189  
+
 官方文档维护管理：qcbby
+
 Github Page文档维护管理：dyf189  
 
 ## 版权说明
