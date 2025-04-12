@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "USF V2",
+  title: "USF官方文档站",
   description: "基于原版SAPI的无名氏服务器管理框架",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -29,14 +29,14 @@ export default defineConfig({
           { text: '使用问题解答', link: '/faq.html' },
           { text: '更新日志', link: '/change-log.html' },
           { text: '版本对应表', link: '/edition.html' },
+          { text: '手动适配USF插件', link: '/sdgx.html' },
+          { text: '手动导入usf（服务器）', link: '/daoru.html' },
         ]
       },
      {
         text: '详细文档',
         items: [
-          { text: '手动适配USF插件', link: '/sdgx.html' },
-          { text: '手动导入usf（服务器）', link: '/daoru.html' },
-          { text: '如何使用领地', link: '/fief.html' },
+         { text: '如何使用领地', link: '/fief.html' },
           { text: '如何使用商店', link: '/shop.html' },
           { text: '自定义菜单', link: '/menu.html' },
           { text: '问题Q&A', link: '/other.html' }
