@@ -36,7 +36,7 @@ USF文档贡献者：YYTZ，EarthDLL，qcbby，MengZe2l，dyf189
 
 Github Page文档维护管理：dyf189  
 
-下载站程序与下载站维护：YYTZ
+下载站维护：YYTZ，qcbby
 ## 版权说明
 在不侵犯作者版权情况下，可自行修改、分发、二次修改、二次分发。禁止以付费形式传播本插件主体部分(包含日志)
 最终解释权归USF团队
