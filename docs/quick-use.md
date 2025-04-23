@@ -28,13 +28,14 @@ Minebbs帖子管理员：qcbby，悠米看悠米
 
 官方交流群：107403959
 
-文档发起人：YYTZ
-文档贡献者：YYTZ，EarthDLL，qcbby，MengZe2l，dyf189  
+USF文档项目发起人：YYTZ
+USF文档贡献者：YYTZ，EarthDLL，qcbby，MengZe2l，dyf189  
 
 官方文档维护管理：qcbby
 
 Github Page文档维护管理：dyf189  
 
+下载站程序与下载站维护：YYTZ
 ## 版权说明
 在不侵犯作者版权情况下，可自行修改、分发、二次修改、二次分发。禁止以付费形式传播本插件主体部分(包含日志)
 最终解释权归USF团队
