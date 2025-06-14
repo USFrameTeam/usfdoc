@@ -29,8 +29,6 @@ export default defineConfig({
           { text: '使用问题解答', link: '/faq.html' },
           { text: '更新日志', link: '/change-log.html' },
           { text: '版本对应表', link: '/edition.html' },
-          { text: '手动适配USF插件', link: '/sdgx.html' },
-          { text: '手动导入usf（服务器）', link: '/daoru.html' },
         ]
       },
      {
@@ -40,6 +38,8 @@ export default defineConfig({
           { text: '如何使用商店', link: '/shop.html' },
           { text: '自定义菜单', link: '/menu.html' },
           { text: '问题Q&A', link: '/other.html' }
+          { text: '手动适配USF插件', link: '/sdgx.html' },
+          { text: '手动导入usf（服务器）', link: '/daoru.html' },
         ]
       },
       {
