@@ -11,7 +11,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://i0.hdslb.com/bfs/face/b4e3d3336ac518d89e021de23f92b7429c95bf36.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=3295999260&spec=640&img_type=jpg',
     name: 'cw1551',
     title: '维护/编辑/主程序',
   },
@@ -32,15 +32,15 @@ const members = [
     ]
   },
   {
-    avatar: 'https://mirror.mengze2.cn/proxy/github.com/YYTZ666.png',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=2629213042&spec=640&img_type=jpg',
     name: 'YYTZ666',
-    title: '编辑',
+    title: '编辑/下载站',
     links: [
       { icon: 'github', link: 'https://github.com/YYTZ666' },
     ]
   },
     {
-    avatar: 'https://mirror.mengze2.cn/proxy/github.com/XiaoXiaoYang233.png',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=3028251364&spec=640&img_type=jpg',
     name: 'XiaoXiaoYang',
     title: '维护',
     links: [
@@ -48,7 +48,7 @@ const members = [
     ]
   },
     {
-    avatar: 'https://mirror.mengze2.cn/proxy/github.com/dyf189.png',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=100&spec=640&img_type=jpg',
     name: 'Antonbin ',
     title: '维护',
     links: [
