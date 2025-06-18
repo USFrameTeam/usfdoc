@@ -3,7 +3,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://mirror.mengze2.cn/proxy/github.com/EarthDLL.png',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=1390909155&spec=640&img_type=jpg',
     name: 'EarthDLL',
     title: '维护/编辑/主程序/领导者',
     links: [
@@ -16,15 +16,15 @@ const members = [
     title: '维护/编辑/主程序',
   },
   {
-    avatar: 'https://mirror.mengze2.cn/proxy/github.com/mcqcbby.png',
-    name: '，mcqcbby',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=1003725607&spec=640&img_type=jpg',
+    name: 'qcbby',
     title: '维护/编辑',
     links: [
       { icon: 'github', link: 'https://github.com/mcqcbby' },
     ]
   },
   {
-    avatar: 'https://mirror.mengze2.cn/proxy/github.com/dyf189.png',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=251273640&spec=640&img_type=jpg',
     name: 'dyf189',
     title: '维护/编辑',
     links: [
