@@ -4,6 +4,8 @@
 兼容表(此处所指的游戏版本均为正式版)：
 
 V2:
+
+0.7.8 for Minecraft1.21.90+  
 0.7.7 for Minecraft1.21.90+  
 0.7.6 for Minecraft1.21.80+  
 0.7.5 for Minecraft1.21.80+  
