@@ -1,4 +1,10 @@
 ---
+<body>
+    <div class="gradient-banner" role="presentation"></div>
+    <div id="announcement" class="announcement" role="alert" aria-live="polite">
+        <p>USF目前已停止功能性更新，但社区维护仍将继续。目前由社区维护的均为测试版，可能不稳定！</p>
+        <span id="close-btn">&times;</span>
+    </div>
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
