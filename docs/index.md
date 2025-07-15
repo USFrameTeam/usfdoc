@@ -1,10 +1,5 @@
 ---
-<body>
-    <div class="gradient-banner" role="presentation"></div>
-    <div id="announcement" class="announcement" role="alert" aria-live="polite">
-        <p>USF目前已停止功能性更新，但社区维护仍将继续。目前由社区维护的均为测试版，可能不稳定！</p>
-        <span id="close-btn">&times;</span>
-    </div>
+
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
@@ -19,6 +14,9 @@ hero:
     - theme: alt
       text: 下载
       link: https://usfdown.zuyst.top/
+    - theme: alt
+      text: 官方交流群
+      link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=pxyP0BTpY6bvsvosve7PbonDWuPz_Pje&authKey=lc4SUEURuCE9eJpPoMhFLlq%2FIQ7odqqv6woBKgJBfoXEzm5WX1ElOLE7OMeYd%2BRJ&noverify=0&group_code=107403959
 
 features:
   - icon: "💻"
