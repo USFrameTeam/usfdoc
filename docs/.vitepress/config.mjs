@@ -56,8 +56,7 @@ export default defineConfig({
     ],
     
     footer: {
-      message: '全站使用署名-非商业使用许可协议协议授权.',
-      copyright: 'Copyright © 2024-2025 <a href="https://www.usfpack.site">USF Team</a>'
+      copyright: '<font _mstmutation="1" _msttexthash="147502745" _msthash="1114"><a href="https://github.com/USFrameTeam" _mstmutation="1" _istranslated="1">USFrameTeam</a> 的 <a href="https://github.com/USFrameTeam" _mstmutation="1" _istranslated="1">Unkonw-Server-Framework-Docs</a> © 2025 根据 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" _mstmutation="1" _istranslated="1">CC BY-NC-SA 4.0</a> 获得许可</font><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">'
     },
     
     editLink: {
