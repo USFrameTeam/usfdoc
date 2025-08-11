@@ -35,7 +35,8 @@ export default defineConfig({
      {
         text: '使用文档',
         items: [
-         { text: '领地', link: '/fief.html' },
+          { text: '物品锁定', link: '/itemlock.html' },
+          { text: '领地', link: '/fief.html' },
           { text: '商店', link: '/shop.html' },
           { text: '自定义菜单', link: '/menu.html' },
           { text: '使用问题解答', link: '/faq.html' },
