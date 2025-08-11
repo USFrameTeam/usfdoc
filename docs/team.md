@@ -72,7 +72,7 @@ const Community = [
   },
     {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2191695710&spec=640&img_type=jpg',
-    name: '至尊版',
+    name: '小洋骢',
     title: 'USFV1第三方分支',
   },
   {
