@@ -35,11 +35,11 @@ export default defineConfig({
      {
         text: '使用文档',
         items: [
-         { text: '如何使用领地', link: '/fief.html' },
-          { text: '如何使用商店', link: '/shop.html' },
+         { text: '领地', link: '/fief.html' },
+          { text: '商店', link: '/shop.html' },
           { text: '自定义菜单', link: '/menu.html' },
-          { text: '常见问题解答', link: '/faq.html' },
-          { text: '手动适配USF插件', link: '/sdgx.html' },
+          { text: '使用问题解答', link: '/faq.html' },
+          { text: '快速适配USF插件', link: '/sdgx.html' },
         ]
       },
       {
