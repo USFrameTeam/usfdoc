@@ -14,7 +14,8 @@
 ## Github为什么USF源代码更新很慢  
 Github只是开源的地方，USF本身并没有做混淆，如果想要修改源码请遵守GPL3.0协议  
 ## USF会不会停更？  
-如果无名氏服务器一直关下去，那么USF可能就会停更(目前看来不用担心太多)  
+迫于成员学业压力，USF很可能会停更，如果你想贡献USF，请查看  
+[USF社区贡献者招募计划] https://github.com/USFrameTeam/.github/discussions/1   
 ## 一些常见问题去哪找  
 看文档看文档(也就是这)，不会的问USF群友，但不保证态度和24h在线  
 ## 如何支持USF或者参与USF本体或文档贡献
@@ -22,3 +23,6 @@ USF压缩包内有捐赠的二维码
 USF本体贡献可以直接在Github参与  
 (毕竟PR目前只用来更新USF)  
 USF文档贡献可以找qcbby或dyf189  
+
+更多请查看  
+[USF社区贡献者招募计划] https://github.com/USFrameTeam/.github/discussions/1 

@@ -11,8 +11,8 @@ export default defineConfig({
       {
         text: '项目文档',
         items: [
-          { text: '快速开始', link: '/quick-use.html' },
-          { text: '手动导入', link: '/daoru.html' },
+          { text: 'USF介绍', link: '/quick-use.html' },
+          { text: '安装USF', link: '/daoru.html' },
           { text: '领地使用方法', link: '/fief.html' },
           { text: '常见问题', link: '/faq.html' }
         ]
@@ -25,22 +25,21 @@ export default defineConfig({
       {
         text: '快速开始',
         items: [
-          { text: '快速开始', link: '/quick-use.html' },
-          { text: '使用问题解答', link: '/faq.html' },
+          { text: '介绍', link: '/quick-use.html' },
+          { text: '安装USF', link: '/daoru.html' },
+          { text: '问题Q&A', link: '/other.html' },
           { text: '更新日志', link: '/change-log.html' },
           { text: '版本对应表', link: '/edition.html' },
-
         ]
       },
      {
-        text: '详细文档',
+        text: '使用文档',
         items: [
          { text: '如何使用领地', link: '/fief.html' },
           { text: '如何使用商店', link: '/shop.html' },
           { text: '自定义菜单', link: '/menu.html' },
-          { text: '问题Q&A', link: '/other.html' },
+          { text: '常见问题解答', link: '/faq.html' },
           { text: '手动适配USF插件', link: '/sdgx.html' },
-          { text: '手动导入usf（服务器）', link: '/daoru.html' }
         ]
       },
       {

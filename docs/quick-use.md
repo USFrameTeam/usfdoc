@@ -1,4 +1,4 @@
-# 快速上手
+# 介绍
 『无名氏服务器插件』是一个基于原版GameTest框架的插件，让原生BDS也可以拥有很多基础的功能。
 目前下载量已超过3w，期待你的使用
 ![image](upload/202402/IMG_0952.jpeg)
@@ -16,7 +16,7 @@
 翻译体英语(En-Translate)
 
 ## 官方(宣传)帖
-[MineBBS官方帖](https://www.minebbs.com/resources/usf.5475/)
+[MineBBS官方帖](https://www.minebbs.com/resources/usf.5475/)  
 [klpbbs官方帖](https://klpbbs.com/thread-131213-1-1.html)
 
 ## 关于
