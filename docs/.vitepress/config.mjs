@@ -38,6 +38,8 @@ export default defineConfig({
           { text: '物品锁定', link: '/itemlock.html' },
           { text: '领地', link: '/fief.html' },
           { text: '商店', link: '/shop.html' },
+          { text: '其它功能', link: '/tools.html'},
+          { text: 'OP功能', link: '/optools.html' },
           { text: '自定义菜单', link: '/menu.html' },
           { text: '使用问题解答', link: '/faq.html' },
           { text: '快速适配USF插件', link: '/sdgx.html' },
