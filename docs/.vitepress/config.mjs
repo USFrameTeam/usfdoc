@@ -18,6 +18,7 @@ export default defineConfig({
         ]
       },
       { text: '官方下载站', link: 'https://usfdown.zuyst.top' },
+      { text: 'USFrameTeam官方网站', link: 'https://www.usframeteam.top' },
       { text: 'USFLog-Plus日志', link: 'https://usflogplus.zuyst.top/' }
     ],
 
