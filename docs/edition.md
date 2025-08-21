@@ -5,6 +5,7 @@
 
 V2: 
 
+0.7.14 for Minecraft1.21.9x and Minecraft 1.21.100  
 0.7.13 for Minecraft1.21.9x and Minecraft 1.21.100  
 0.7.12 for Minecraft1.21.100  
 0.7.11 for Minecraft1.21.9x  
