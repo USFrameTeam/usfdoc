@@ -65,7 +65,8 @@
 
 ### 配置教程
 * 首先存档打开-测试版api
-* 把下载的USF插件（mcpack）解压
+* 把下载的USF插件（mcpack）解压  
+* 将 "__ manifest.json __" 删除，重命名 "__ manifestR.json __" 为 "__ manifest.json __"  
 * 在服务器地图目录新建加behavior_packs文件夹然后在behavior_packs文件夹新建一个文件夹（名称随便）
 * 把下载解压好的USF目录下所以文件复制过去（目录文件如下如下）
  ![image](upload/202402/20241215001.jpg)
