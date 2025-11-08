@@ -12,6 +12,17 @@
 * 重复出现bug的操作
 * 将出现的报错截图发到群里，最好在Github创建issuse
 
+## USF在服务端不加载
+
+1. 中文文件夹  
+- 问题描述:部分情况下(例如LinuxWine环境)，当behavior_packs文件夹内USF文件夹名字带有中文，USF可能不加载  
+- 解决办法:删除中文  
+
+2. USF没有正常添加
+- 问题描述:当按照文档内教程或者Minecraft机制原因(部分版本添加模组在MC文件而非存档文件)时，USF没有正常添加  
+- 解决方法:检查behavior_packs.json，查看USF UUID是否正确，如果没有behavior_packs.json，需要创建一个并按照json格式填写USF的UUID  
+如果有而且USF的UUID正确，检查behavior_packs文件夹内是否有USF文件，如果没有需要添加
+
 ## 服务器不是OP
 - 我在存档里获取了最高op，存档拷贝到服务器后，却不显示op
 - 原因：BE版游戏账户数据在本地是局域网账户，当使用xbox认证后进入服务器，数据库并没有你的信息，所以本质上服务器已经有最高op了，但你却不是。
