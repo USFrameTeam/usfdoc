@@ -3,7 +3,8 @@
 
 兼容表(此处所指的游戏版本均为正式版)：
 
-V2: 
+V2:  
+0.7.18 for Minecraft1.21.130  
 0.7.17 for Minecraft1.21.120  
 0.7.16 for Minecraft1.21.111 and Minecraft 1.21.100  
 0.7.15 for Minecraft1.21.111 and Minecraft 1.21.100  
