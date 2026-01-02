@@ -6,11 +6,19 @@
 - [官方下载站](https://usfdown.zuyst.top/)
 
 ## 如何反馈bug
-首先，您应该检查您的Minecraft版本与usf版本是否匹配，详见[兼容表](edition.html)。如果版本兼容，您应该查看[更新日志](change-log.html)。每个版本更新时都会修复大量bug。如果该bug已在新版本中被修复，您应该更新到最新版本。如果没有提及，您可以反馈该bug。 
+1. __若无法使用USF__   
+您应该检查您的Minecraft版本与usf版本是否匹配，详见[兼容表](edition.html)
+然后检查是否正确安装USF  
+
+2. __检查Bug是否修复__  
+如果版本兼容，您应该查看[更新日志](change-log.html)。每个版本更新时都会修复大量bug。如果该bug已在新版本中被修复，您应该更新到最新版本。如果没有提及，您可以反馈该bug。  
+
+3. __其它情况，需要反馈bug__  
+
 * __进入游戏打开如下选项__   
 ![image](upload/202402/20241220001.jpg)  
-* 重复出现bug的操作
-* 将出现的报错截图发到群里，最好在Github创建issuse
+* 重复出现bug的操作  
+* 将出现的报错截图发到群里，最好[在Github创建issuse](https://github.com/USFrameTeam/Unknown-Server-Framework/issuses/new)   
 
 ## USF在服务端不加载
 
