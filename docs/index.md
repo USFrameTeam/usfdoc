@@ -31,5 +31,10 @@ features:
 ---
 
 ## 这是什么？
-USFv2(UnknowServerFrameworkv2)是USFrameTeam基于Minecrft原版ScriptAPI及GameTest框架开发新人一款适用于基岩版服务端的服务器综合管理框架，它可用于搭建各种服务器的商店、货币、积分等系统，也可用于方便管理员管理成员。
+
+无名氏服务器管理框架(Unknown-Server-Framework)(以下简称USF)是USFrameTeam基于Minecrft原版ScriptAPI开发的一款适用于原版MC或基岩版服务端的服务器综合管理框架
+
+## 有什么功能？
+
+它可用于搭建各种服务器的商店、货币、积分等系统，也可用于方便管理员管理成员。
 目前该插件在全网下载量已超过3w，期待你的使用！

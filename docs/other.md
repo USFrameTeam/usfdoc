@@ -11,6 +11,8 @@
 第二，电脑端微软商店自动更新，之前USF无法适配  
 ## 为什么文档不完善  
 在写了在写了，USF文档的编写维护人员(包括EarthDLL)大部分都是学生，没太多精力去编写和维护，甚至根本不会，如果想要的功能教程提给@dyf189  
+
+如果你可以接受 __由AI生成的USF文档__ ,可以访问[USF项目AI生成文档](https://zread.ai/USFrameTeam/Unknown-Server-Framework)
 ## Github为什么USF源代码更新很慢  
 Github只是开源的地方，USF本身并没有做混淆，如果想要修改源码请遵守GPL3.0协议  
 ## USF会不会停更？  
