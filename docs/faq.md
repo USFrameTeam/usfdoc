@@ -20,6 +20,24 @@
 * 重复出现bug的操作  
 * 将出现的报错截图发到群里，最好[在Github创建issuse](https://github.com/USFrameTeam/Unknown-Server-Framework/issuses/new)   
 
+## 其它模组/插件兼容问题  
+
+1.假人类addon/插件  
+绝大多数的假人addon/插件需要通过发送聊天信息来对假人进行操作，但这与USF有一定冲突，可能导致USF或者假人不可用。  
+如果你想要在服务器使用假人，你将不能使用USF的头衔   
+ ´如:[主世界]玩家名´   
+
+解决方案:  
+在插件设置中找到USF聊天格式，关闭  
+
+2.LeviAntiCheat插件  
+目前已知ll服务端LeviAntiCheat插件可能会导致USF栈溢出，但由于LeviAntiCheat插件是闭源的，我们并不能确定相关问题  
+介于服务端被watchdog关闭前是LeviAntiCheat在操作，我们暂且估计是LeviAntiCheat的部分操作可能导致USF的栈溢出  
+
+解决方案:
+不使用LeviAntiCheat插件或者不使用USF  
+加强服务器管理也可以避免这种情况
+
 ## USF在服务端不加载
 
 1. 中文文件夹  
