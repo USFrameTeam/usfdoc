@@ -44,7 +44,7 @@
 
 ## 服务器安装USF
 
-> [!WARNING]
+> [!TIP]
 > 需要你的服务器存档开启测试版API并开启作弊(无敌模式)
 > 如果是默认存档，需要上传存档，具体方法如下：  
 > 1. 打开服务器文件夹
@@ -58,10 +58,12 @@
 > 9. 重启服务器  
 > 服务器具体情况可能不同，具体方法请使用百度、必应或AI
 
-
 **适用范围**
 * 1.服务器
 * 2面板服
+
+> [!IMPORTANT]  
+> 你也可以像常规addon一样导入后再上传存档到服务器，可以省下之后的步骤
 
 ### 配置教程
 * 首先存档打开-测试版api
@@ -71,17 +73,12 @@
 * 把下载解压好的USF目录下所以文件复制过去（目录文件如下如下）
  ![image](upload/202402/20241215001.jpg)
 
-* 然后回到存档根目录在根目录下新建两个个文件
-* 文件名1：world_behavior_pack_history.json
-* 文件名2：world_behavior_packs.json
-![ image](upload/202402/20241215002.jpg)
+* 然后回到存档根目录在根目录下新建文件
+* 文件名：world_behavior_packs.json  
+![image](upload/202402/20241215002.jpg)
+* !world_behavior_packs.json  
 
-* 然后把以下内容复制进去
-* world_behavior_pack_history.json
-> [!WARNING]
-> {"packs":[{"can_be_redownloaded":false,"name":"服务器管理框架V2(基于GameTest框架)1.21+","uuid":"9472c503-5a92-43c8-7ddf-0492de2362d7","version":[1,0,0]}]}
-* !world_behavior_packs.json
-> [!WARNING]
+> [!NOTE]
 > [{"pack_id" : "9472c503-5a92-43c8-7ddf-0492de2362d7","version" : [ 1, 0, 0 ]}]
 
 *把上面的信息复制进去就行了（理论上是这样未经过大量测试，有问题请反馈）
