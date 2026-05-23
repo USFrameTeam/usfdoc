@@ -54,31 +54,31 @@
 2. 存档文件内没有USF
 - 问题描述:当按照文档内教程或者Minecraft机制原因
 
-较新版本添加模组在MC私有目录的 `behavior_packs` 文件夹而非存档`behavior_packs` 文件夹 
- 
-在游戏本地可以正常使用USF,但一但直接导出世界没有USF(包括Windows端基岩版导出世界/世界模板、全平台基岩版直接复制存档文件夹)  
+- 问题原因：  
+- 较新版本添加模组在MC私有目录的 `behavior_packs` 文件夹而非存档`behavior_packs` 文件夹  
+- 在游戏本地可以正常使用USF,但一但直接导出世界没有USF(包括Windows端基岩版导出世界/世界模板、全平台基岩版直接复制存档文件夹)  
 
 - 解决方法：  
-检查behavior_packs文件夹内是否有USF文件，如果没有需要添加  
-如果没有 `behavior_packs` 文件夹，你需要在存档目录新建一个 `behavior_packs` 文件夹，然后再在里面新建个名字辨识度高的文件夹(比如USF)  
+- 检查behavior_packs文件夹内是否有USF文件，如果没有需要添加  
+- 如果没有 `behavior_packs` 文件夹，你需要在存档目录新建一个 `behavior_packs` 文件夹，然后再在里面新建个名字辨识度高的文件夹(比如USF)  
 
-之后将USF文件复制到 `behavior_packs/{你新建的那个}` 文件夹内，此时USF就应添加成功了
+- 之后将USF文件复制到 `behavior_packs/{你新建的那个}` 文件夹内，此时USF就应添加成功了
 
 3. 部分服务商/服务端问题
 
-3.1.  
+- 3.1.  
 - 问题描述:  
 在简幻欢服务商提供的服务器中，直接在存档的worlds_behavior_packs.json里添加USF时，USF不会加载(暂未确定)   
 - 解决办法:下载存档，从游戏内导入USF  
 
-3.2.  
+- 3.2.  
 - 问题描述:  
 像aternos这类免费服务商对gametest框架做了特殊的处理，导致USF无法在aternos等服务商使用  
 - 解决办法: ~~我们没有太好方法~~ 只能建议更换服务商
 
 4. 其它情况  
 - 检查 `behavior_packs.json` ，查看USF UUID是否正确，如果没有 `behavior_packs.json` ，需要创建一个并按照 __json格式__ 填写USF的UUID(需要在存档开启测试版API的前提下USF通过此方法才能正常导入，没有则需开启)  
-如果没有 `behavior_packs` 文件夹，你需要在存档目录新建一个 `behavior_packs` 文件夹，然后再在里面新建个名字辨识度高的文件夹(比如USF)  
+- 如果没有 `behavior_packs` 文件夹，你需要在存档目录新建一个 `behavior_packs` 文件夹，然后再在里面新建个名字辨识度高的文件夹(比如USF)  
 之后将USF文件复制到 `behavior_packs/{你新建的那个}` 文件夹内，此时USF就应添加成功了
 
 ## 服务器不是OP/存档内不是OP
