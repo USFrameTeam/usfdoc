@@ -11,7 +11,7 @@ export default defineConfig({
       {
         text: '项目文档',
         items: [
-          { text: 'USF介绍', link: '/quick-use.html' },
+          { text: 'USF介绍', link: '/first/quick-use.html' },
           { text: '安装USF', link: '/first/import.html' },
           { text: '领地使用方法', link: '/fief.html' },
           { text: '常见问题', link: '/faq.html' }
