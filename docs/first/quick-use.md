@@ -1,7 +1,7 @@
 # 介绍
 『无名氏服务器插件』是一个基于原版GameTest框架的插件，让原生BDS也可以拥有很多基础的功能。
 目前下载量已超过3w，期待你的使用
-![image](upload/202402/IMG_0952.jpeg)
+![image](../upload/202402/IMG_0952.jpeg)
 
 ## 前置环境
 | 项目          | 需求                                   |
@@ -45,11 +45,11 @@ USF文档贡献者：YYTZ，EarthDLL，qcbby，MengZe2l，dyf189
 
 
 #### 下一步-安装    
-[安装USF](first/import.html)  
+[安装USF](/first/import.html)  
 #### 将你的钟锁定为物品栏第一位  
-[物品锁定](itemlock.html)  
+[物品锁定](/itemlock.html)  
 #### 领地  
-[领地功能](fief.html)  
+[领地功能](/fief.html)  
 #### 常见问题  
-[使用问题解答](faq.html)   
-[USF相关问题](other.html)
+[使用问题解答](/faq.html)   
+[USF相关问题](/other.html)
