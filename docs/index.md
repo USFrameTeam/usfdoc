@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 快速使用
-      link: /quick-use
+      link: /first/quick-use
     - theme: alt
       text: 下载
       link: https://usfdown.zuyst.top/

@@ -45,7 +45,7 @@ USF文档贡献者：YYTZ，EarthDLL，qcbby，MengZe2l，dyf189
 
 
 #### 下一步-安装    
-[安装USF](daoru.html)  
+[安装USF](import.html)  
 #### 将你的钟锁定为物品栏第一位  
 [物品锁定](itemlock.html)  
 #### 领地  

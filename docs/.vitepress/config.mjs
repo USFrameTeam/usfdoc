@@ -12,7 +12,7 @@ export default defineConfig({
         text: '项目文档',
         items: [
           { text: 'USF介绍', link: '/quick-use.html' },
-          { text: '安装USF', link: '/daoru.html' },
+          { text: '安装USF', link: '/first/import.html' },
           { text: '领地使用方法', link: '/fief.html' },
           { text: '常见问题', link: '/faq.html' }
         ]
@@ -26,8 +26,8 @@ export default defineConfig({
       {
         text: '快速开始',
         items: [
-          { text: '介绍', link: '/quick-use.html' },
-          { text: '安装USF', link: '/daoru.html' },
+          { text: '介绍', link: '/first/quick-use.html' },
+          { text: '安装USF', link: '/first/import.html' },
           { text: '问题Q&A', link: '/other.html' },
           { text: '更新日志', link: '/change-log.html' },
           { text: '版本对应表', link: '/edition.html' },
@@ -44,6 +44,12 @@ export default defineConfig({
           { text: '自定义菜单', link: '/menu.html' },
           { text: '使用问题解答', link: '/faq.html' },
           { text: '快速适配USF插件', link: '/sdgx.html' },
+        ]
+      },
+           {
+        text: '开发中功能(发布版本无法使用)',
+        items: [
+          { text: '自定义变量', link: '/custom/var.html' }
         ]
       },
       {
