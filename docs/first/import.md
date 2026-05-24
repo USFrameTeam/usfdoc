@@ -3,14 +3,14 @@
 ## 本地安装USF
 > [!IMPORTANT]
 >若您已经导入了其他版本的USF，请删除旧版本USF的行为包，再重新导入！否则会出现以下情况：
-![image](upload/202402/202402121205550.jpg)
+![image](../upload/202402/202402121205550.jpg)
 你可以在`设置>存储>行为包`中删除其他版本的USF行为包
-![image](upload/202402/202402121205230.jpg)
+![image](../upload/202402/202402121205230.jpg)
 为了方便BDS升级插件，USF行为包的内部版本号都是「1.0.0」，因此在导入时会提示重复
-![image](upload/202402/202402121213130.png)
+![image](../upload/202402/202402121213130.png)
 
 文件列表如下
-![image](upload/202402/202402121217300.jpg)
+![image](../upload/202402/202402121217300.jpg)
 - `无名氏B`与`无名氏R`为V2的主包，若`无名氏B`只有一个，则直接导入即可；若有多个，请选择和游戏版本相同的包。无名氏R包包括`NPC界面优化`、`ActionBar右上角`、`表情(V2已移除)`功能，请自主选择是否导入。
 
 > [!IMPORTANT]
@@ -22,7 +22,7 @@
 
 导入方法(0.6.10以下)
 文件列表如下:
-![image](upload/202402/202402121223520.jpg)
+![image](../upload/202402/202402121223520.jpg)
 - 直接导入mcaddon文件即可  
 
 
@@ -70,11 +70,11 @@
 * 将 "__manifest.json__" 删除，重命名 "__manifestR.json__" 为 "__manifest.json__"  
 * 在服务器地图目录新建加behavior_packs文件夹然后在behavior_packs文件夹新建一个文件夹（名称随便）
 * 把下载解压好的USF目录下所以文件复制过去（目录文件如下如下）
- ![image](upload/202402/20241215001.jpg)
+ ![image](../upload/202402/20241215001.jpg)
 
 * 然后回到存档根目录在根目录下新建文件
 * 文件名：world_behavior_packs.json  
-![image](upload/202402/20241215002.jpg)
+![image](../upload/202402/20241215002.jpg)
 * !world_behavior_packs.json  
 
 > [!NOTE]
