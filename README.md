@@ -1,25 +1,32 @@
-# USFDoc | Unknown-Server-Framework 官方文档仓库
-[![Docs Website](https://img.shields.io/badge/在线文档-docs.usframeteam.top-2ea44f)](https://docs.usframeteam.top/)
-[![QQ Group](https://img.shields.io/badge/QQ群-118123500-blue)](https://qm.qq.com/cgi-bin/qm_q_union_input?group=118123500)
+# Unknown-Server-Framework(USF)｜无名氏服务器插件文档
+[![Online Docs](https://img.shields.io/badge/在线文档-docs.usframeteam.top-green)](https://docs.usframeteam.top/)
+[![QQ Group](https://img.shields.io/badge/QQ群-118123500-1E88E5)](https://qm.qq.com/cgi-bin/qm_q_union_input?group=118123500)
 
-
+![IMG_0952](https://github.com/user-attachments/assets/205013de-1e13-494c-bf8c-77ad7a46bb8d)
 
 ## 中文介绍
-**无名氏服务器插件(USF)** 依托 Minecraft 基岩版原版 GameTest 框架开发，原生 BDS 即可直接加载使用，为原版服务端补充各类实用基础功能。
-项目累计下载量已突破 **30000+**，欢迎体验使用。
-> USF主项目仓库：[USFrameTeam/Unknown-Server-Framework](https://github.com/USFrameTeam/Unknown-Server-Framework)
+**无名氏服务器插件(USF)** 是基于原版GameTest框架开发的Minecraft基岩版BDS插件，原生BDS直接运行，拓展大量服务器常用基础功能。
+项目插件累计下载量已突破 **30000+**，欢迎下载体验。
+
+> 项目主仓库：[USFrameTeam/Unknown-Server-Framework](https://github.com/USFrameTeam/Unknown-Server-Framework)
 
 ## English Introduction
-**Unknown-Server-Framework(USF)** is a Minecraft Bedrock Edition Addon/Plugin based on vanilla GameTest Framework.
-You can check the core project at: `USFrameTeam/Unknown-Server-Framework`
+**Unknown-Server-Framework(USF)** is a Minecraft Bedrock Edition addon/plugin based on vanilla GameTest Framework, works on original BDS without extra loader.
+Total downloads of USF have exceeded 30,000.
 
-## 仓库说明 | Repository Info
-本仓库为 **USF 官方文档源码仓库**，用于维护、生成 USF 在线文档站点。
-欢迎各位开发者参与文档的编写、纠错与维护工作，有意协作可加入QQ群沟通。
+> Core Repo: [USFrameTeam/Unknown-Server-Framework](https://github.com/USFrameTeam/Unknown-Server-Framework)
 
-This repository stores source files of USF official documentation.
-Feel free to join our QQ Group if you'd like to contribute to docs construction.
+## 本仓库说明
+本仓库为 **USF官方文档源码项目**，用于搭建维护USF在线文档。
+- 官方在线文档站：https://docs.usframeteam.top/
+- 欢迎有志者参与文档编写、校对与维护工作
 
-## 联系方式
-- QQ群 / QQ Group：`118123500`
-- 在线文档 / Website：[https://docs.usframeteam.top/](https://docs.usframeteam.top/)
+## 参与文档共建 | Join Docs Contribute
+想要参与文档编译、内容维护，可加入官方QQ群：
+> QQ群号：`118123500`
+
+## 相关链接
+| 项目 | 链接 |
+|------|------|
+| USF主框架源码 | https://github.com/USFrameTeam/Unknown-Server-Framework |
+| USF在线文档 | https://docs.usframeteam.top/ |
