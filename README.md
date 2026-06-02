@@ -2,7 +2,8 @@
 [![Online Docs](https://img.shields.io/badge/在线文档-docs.usframeteam.top-green)](https://docs.usframeteam.top/)
 [![QQ Group](https://img.shields.io/badge/QQ群-118123500-1E88E5)](https://qm.qq.com/cgi-bin/qm_q_union_input?group=118123500)
 
-
+> 替换提示：把下面括号内换成你仓库里的图片路径 `./assets/banner.png`，把图片丢仓库assets文件夹
+![USF Banner](./assets/banner.png)
 
 ## 中文介绍
 **无名氏服务器插件(USF)** 是基于原版GameTest框架开发的Minecraft基岩版BDS插件，原生BDS直接运行，拓展大量服务器常用基础功能。
