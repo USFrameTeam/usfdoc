@@ -18,7 +18,7 @@
 * __进入游戏打开如下选项__   
 ![image](upload/202402/20241220001.jpg)  
 * 重复出现bug的操作  
-* 将出现的报错截图发到群里，最好[在Github创建issuse](https://github.com/USFrameTeam/Unknown-Server-Framework/issuses/new)   
+* 将出现的报错截图发到群里，最好[在Github创建issuse](https://github.com/USFrameTeam/Unknown-Server-Framework/issues/new)   
 
 ## 其它模组/插件兼容问题  
 
@@ -26,11 +26,10 @@
 绝大多数的假人addon/插件需要通过发送聊天信息来对假人进行操作，但这与USF有一定冲突，可能导致USF或者假人不可用。  
 
 >[!IMPORTANT]  
->如果你想要在服务器使用假人，你将不能使用USF的头衔   
->´如:[主世界]玩家名´    
+>可以在管理界面中找到“屏蔽词设置”，将“假人“设置为屏蔽词，usf将会忽略假人相关消息。如果仍然不可用，请在聊天格式中打开“强制禁用usf聊天系统”。
+>在即将到来的新版本中将有更好的解决方案
 
-解决方案:  
-在插件设置中找到USF聊天格式，关闭  
+解决方案:  见上
 
 2.LeviAntiCheat插件  
 目前已知ll服务端LeviAntiCheat插件可能会导致USF栈溢出，但由于LeviAntiCheat插件是闭源的，我们并不能确定相关问题  
@@ -88,7 +87,7 @@
 __服务器解决办法__   
 - 获取 __服务器__ op：`op <你的Xbox ID>`      
 - __进入服务器__，在服务器内输入`/function reset`  
-- 在 __30秒内__ 在 __服务器内__ 输入`/reload`   
+- 在 __30秒内__ 在 __服务器后端控制台__ 输入`/reload`   
 - 然后重新输入`/function get_owner`
 
 __存档解决办法__
