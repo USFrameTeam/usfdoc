@@ -5,6 +5,8 @@
 
 V2:
 
+0.8.2 for Minecraft1.21.120及以上
+0.8.1 for Minecraft1.21.120及以上
 0.8.0 for Minecraft1.21.120及以上
 0.7.21 for Minecraft1.21.120及以上  
 0.7.20 for Minecraft1.21.120及以上  
